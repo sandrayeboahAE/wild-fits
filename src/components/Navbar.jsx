@@ -71,7 +71,7 @@ const Navbar = () => {
           </div>
         </Flex>
         <Flex justify="space-around" align="center">
-          <Link href="#">HOME</Link>
+          <Link href="/">HOME</Link>
 
           <Menu shadow="md" width={200} trigger="hover">
             <Menu.Target>
@@ -114,7 +114,7 @@ const Navbar = () => {
               <Menu.Item>News Details</Menu.Item>
             </Menu.Dropdown>
           </Menu>
-          <Link href="tel:+123456789">CONTACTS</Link>
+          <Link href="/contact">CONTACTS</Link>
           <Button radius="md" size="md" className="m-5 text-sm">
             GET APPOINTMENT
           </Button>
