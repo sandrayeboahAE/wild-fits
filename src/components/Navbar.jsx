@@ -80,6 +80,7 @@ const Navbar = () => {
 
             <Menu.Dropdown>
               <Menu.Label>About</Menu.Label>
+              <Menu.Item>About</Menu.Item>
               <Menu.Item>Services</Menu.Item>
               <Menu.Item>Service Details</Menu.Item>
               <Menu.Item>Location</Menu.Item>

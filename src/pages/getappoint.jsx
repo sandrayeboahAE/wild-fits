@@ -2,15 +2,11 @@ import {
   Button,
   Checkbox,
   Flex,
-  Grid,
   Input,
   Select,
   Stack,
-  Text,
-  TextInput,
   Textarea,
 } from "@mantine/core";
-import { IconAt, IconChevronDown } from "@tabler/icons-react";
 import { MdPermIdentity } from "react-icons/md";
 import { TbMail, TbPhone, TbArrowDown, TbPencil } from "react-icons/tb";
 import { useState } from "react";
