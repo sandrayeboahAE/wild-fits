@@ -116,7 +116,7 @@ const Navbar = () => {
           </Menu>
           <Link href="/contact">CONTACTS</Link>
           <Button radius="md" size="md" className="m-5 text-sm">
-            GET APPOINTMENT
+            <Link href="/getappoint">GET APPOINTMENT</Link>
           </Button>
         </Flex>
       </Flex>
